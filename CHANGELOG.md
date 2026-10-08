@@ -6,6 +6,12 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+### Summary
+Files in Dynamic Island's Downloads page can open directly in their default app.
+
+### Dynamic Island
+- Clicking a completed file's name or icon in Downloads opens it in its default app. The Finder and Shelf buttons remain available.
+
 ## [3.4.1-beta.3] - 2026-10-08
 
 ### Summary
