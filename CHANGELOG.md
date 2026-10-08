@@ -6,6 +6,12 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+### Summary
+Dock previews are easier to scroll and select.
+
+### Fixed
+- Dock previews no longer jump to center each window that passes under the pointer while scrolling. Thanks to Emirhan for the report.
+
 ## [3.4.1-beta.3] - 2026-10-08
 
 ### Summary
